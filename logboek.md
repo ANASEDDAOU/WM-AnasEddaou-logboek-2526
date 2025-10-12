@@ -14,3 +14,27 @@
 - Problemen gehad met connecteren en parameters doorgeven  
 - GET, POST en DELETE werken goed  
 - Nog kleine fouten bij UPDATE  
+
+### 7 oktober 2025  
+- Ongeveer **3 uur** gewerkt aan het project  
+- Concerts, Visitors en Tickets **API** volledig afgewerkt en getest  
+
+### 8 oktober 2025  
+- Ongeveer **3 uur** gewerkt aan de **HTML-pagina’s** en de gemeenschappelijke `common.css`  
+- Structuur en basislayout van de website uitgewerkt  
+
+### 9 oktober 2025  
+- Ongeveer **2 à 3 uur** gewerkt aan de **JavaScript-logica** voor de pagina’s `concerts` en `concert-details`  
+- Data opgehaald via de API en dynamische weergave getest  
+
+### 10 oktober 2025  
+- Ongeveer **2 à 3 uur** gewerkt aan de **JavaScript-bestanden** voor `visitors` en `tickets`  
+- CRUD-functionaliteit volledig geïmplementeerd en getest  
+
+### 11 oktober 2025  
+- **CSS verder afgewerkt** en opmaak verfijnd  
+- Consistente styling toegepast op alle pagina’s  
+
+### 12 oktober 2025  
+- **Eindcontrole** van alle functionaliteit en finale tests uitgevoerd  
+- Project **online geplaatst op Combell**

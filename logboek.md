@@ -38,3 +38,9 @@
 ### 12 oktober 2025  
 - **Eindcontrole** van alle functionaliteit en finale tests uitgevoerd  
 - Project **online geplaatst op Combell**
+
+## Live links
+- Webapp (frontend): https://anaseddaouodisee.be/project1.0/
+- Concerts API endpoint: https://anaseddaouodisee.be/project1.0/concerts.php
+- Visitors API endpoint: https://anaseddaouodisee.be/project1.0/visitors.php
+- Tickets API endpoint: https://anaseddaouodisee.be/project1.0/tickets.php

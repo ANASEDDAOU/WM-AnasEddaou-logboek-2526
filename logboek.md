@@ -32,6 +32,7 @@
 - CRUD-functionaliteit volledig geïmplementeerd en getest  
 
 ### 11 oktober 2025  
+- Ongeveer **1 à 2 uur**
 - **CSS verder afgewerkt** en opmaak verfijnd  
 - Consistente styling toegepast op alle pagina’s  
 

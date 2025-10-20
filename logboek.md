@@ -45,3 +45,9 @@
 - Concerts API endpoint: https://anaseddaouodisee.be/project1.0/concerts.php
 - Visitors API endpoint: https://anaseddaouodisee.be/project1.0/visitors.php
 - Tickets API endpoint: https://anaseddaouodisee.be/project1.0/tickets.php
+
+
+**Datum:** Vrijdag 17 oktober 2025  
+**Tijd:** 1 uur  
+**Activiteit:** Gewerkt aan oefening 17 oktober  
+**Opmerking:** Oefening verder uitgewerkt en gecontroleerd.

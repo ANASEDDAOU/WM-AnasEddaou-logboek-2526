@@ -51,3 +51,37 @@
 **Tijd:** 1 uur  
 **Activiteit:** Gewerkt aan oefening 17 oktober  
 **Opmerking:** Oefening verder uitgewerkt en gecontroleerd.
+# Logboek Web & Mobile – ConcertApp
+
+## 24 oktober 2025  
+- het file structuur opgemaakt en de ts naar js en dan ook axios ge download zoals in de pwp 
+- Capacitor ingesteld met bundle ID 
+- repo aangemaakt en leerkracht uitgenodigt
+- Eerste commit gemaakt op GitHub via  github desktop
+
+## 27 oktober 2025 (maandag)  
+- Ongeveer **2 à 3 uur** gewerkt aan de app  
+- Pagina **Concerten** volledig uitgewerkt  
+- CRUD-functies (toevoegen, bewerken, verwijderen) getest met API  
+- Popover voor concertformulieren toegevoegd  
+
+## 28 oktober 2025 (dinsdag)  
+- Ongeveer **2 à 3 uur** gewerkt aan het project  
+- Pagina **Bezoekers** gemaakt en verbonden met de API  
+- Formulieren toegevoegd en getest  
+- Layout verbeterd met Ionic-componenten  
+
+## 29 oktober 2025 (woensdag)  
+- Ongeveer **3 uur** gewerkt aan het project  
+- Pagina **Tickets** uitgewerkt met koppeling naar bezoekers en concerten  
+- **About-pagina** gemaakt met profielfoto en korte tekst  
+- Kleine fouten opgelost en alles gebruiksvriendelijker gemaakt  
+
+## 2 november 2025 (zondag)  
+- **Demo-video opgenomen** via de Android Studio emulator  
+- **Debug APK** aangemaakt en samen met video in de `/demo`-map geplaatst  
+- Alles gecontroleerd en laatste commit gepusht  
+- Link van de GitHub-repo ingediend op **Toledo**
+- leerkracht terug uitgenodigd
+
+
